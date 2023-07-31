@@ -1,11 +1,16 @@
 _repo: Travels-in-Kordofan-b-Embracing-a-description-of-that-province-of-Egypt-and-of-some-of-the-bo__71182
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71182-h/images/cover.jpg
 creator:
   author:
     agent_name: Pallme, Ignatius
     gutenberg_agent_id: '56106'
     url: http://www.gutenberg.org/2009/agents/56106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71182#Travels-in-Kordofan-b-Embracing-a-description-of-that-province-of-Egypt-and-of-some-of-the-bo_
 gutenberg_issued: '2023-07-13'
 identifiers:
   gutenberg: '71182'
